@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(132, 218, 132);
+}
+
+#dealcolor{
+    color:rgb(30, 190, 30);;
+}
+h1{
+    text-align: center;
+}
+
+#juice img{
+    height: 450px;
+    float: left;
+}
+
+#burger2 img{
+    height: 300px;
+    margin-top: 210px;
+    margin-left: -250px;
+}
+
+#combo{
+    width: 400px;
+    text-align: center;
+    position: relative;
+    top: -400px;
+    left: 500px;
+}
+
+#combo h1{
+    color:rgb(30, 190, 30);;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+#combo h3{
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
