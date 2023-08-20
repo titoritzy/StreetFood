@@ -31,7 +31,7 @@ body{
     float: left;
     padding-left: 5px;
     white-space: nowrap;
-    padding-left: 60px;
+    padding-left: 50px;
 }
 
 .navbar a{
@@ -49,8 +49,18 @@ body{
   #saying{
     position: relative;
     top: 150px;
-    right: 950px;
+    right: 850px;
     width: 300px;
+  }
+
+  
+
+  #foodie{
+    width: 100px;
+    z-index: 1;
+    position: relative;
+    top: 380px;
+    right: 300px;
   }
 
   button{
@@ -58,3 +68,13 @@ body{
     border-radius: 7px;
     background-color: #6CB840;
   }
+
+
+
+
+
+
+
+
+
+  
