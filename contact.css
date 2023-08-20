@@ -1,0 +1,42 @@
+body{
+    background-color: #FFD77C;
+    text-align: center;
+}
+
+#uscolor{
+    color:rgb(30, 190, 30);;
+}
+
+#contact{
+    width: 270px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 42%;
+}
+
+#email{
+    border: none;
+    border-radius: 10px;
+    width: 250px;
+    height: 25px;
+}
+
+button{
+    border: none;
+    border-radius: 7px;
+    background-color: #6CB840;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.footer-content{
+    text-align: justify;
+    position: relative;
+    top: 300px;
+    left: 30px;
+}
+
